@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'matdutour:popup-confirm',
-  version: '0.2.2',
-  summary: 'A clean and easy to use confirmation popup',
-  git: 'https://github.com/mathieudutour/Meteor-popup-confirm.git',
+  name: 'gregivy:popup-confirm',
+  version: '0.0.1',
+  summary: 'A clean and easy to use confirmation/alert popup',
+  git: 'https://github.com/gregivy/Meteor-popup-confirm.git',
   documentation: 'README.md'
 });
 
