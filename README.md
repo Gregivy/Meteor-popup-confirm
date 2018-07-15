@@ -12,7 +12,7 @@ Usage
 	new Confirmation({
       message: "Are you sure ?",
       title: "Confirmation",
-      cancelText: "Cancel", // if false, cancel button is hidden
+      cancelText: "Cancel", // if false, cancel button is hidden, if undefined, default text is 'Cancel'
       okText: "Ok",
       success: true, // whether the button should be green or red
       focus: "cancel" // which button to autofocus, "cancel" (default) or "ok", or "none"
