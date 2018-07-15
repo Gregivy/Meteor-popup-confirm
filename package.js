@@ -1,6 +1,6 @@
 Package.describe({
   name: 'gregivy:popup-confirm',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'A clean and easy to use confirmation/alert popup',
   git: 'https://github.com/gregivy/Meteor-popup-confirm.git',
   documentation: 'README.md'
